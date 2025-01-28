@@ -15,7 +15,7 @@ Markdown ofrece diversas opciones de etiquetado para dar formato al texto de man
     `- Elemento uno`  
     `- Elemento dos`
 - **Enlaces**: Se logra encerrando el texto con corchetes y la URL con paréntesis.  
-  - Ejemplo: `[Google](https://www.google.com)`
+  - Ejemplo: (https://www.google.com)
   - 
 - **Imágenes**: `![Texto alternativo](ruta/de/la/imagen.jpg)`
 Para más detalles, consulta la [documentación oficial de Markdown](https://www.markdownguide.org/) o revisa el README de [GitHub Flavored Markdown](https://github.github.com/gfm/).
