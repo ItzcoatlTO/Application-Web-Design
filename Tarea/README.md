@@ -1,14 +1,33 @@
-# Application-Web-Design
+## Opciones de Etiquetado en Markdown
 
-# Información del Alumno
-- **Nombre**: Itzcoatl Torres
-- **Matrícula**: AL03004004
-- **Carrera**: Ingeniería en Desarollo de  Software
-- **Semestre**: 6to
+Markdown ofrece diversas opciones de etiquetado para dar formato al texto de manera sencilla. A continuación, se muestran algunas de las más utilizadas:
 
-# Datos de la Materia
-- **Nombre de la materia**: Diseño de aplicaciones web
-- **Profesor**: Mario Eduardo Rodríguez Palafox
+- **Títulos**: Utiliza la almohadilla (`#`) para crear títulos y subtítulos.
+  - `# Título 1`
+  - `## Título 2`
+  - `### Título 3`
+- **Negrita**: Se logra encerrando el texto entre dobles asteriscos o dobles guiones bajos.
+  - `**texto en negrita**`
+- **Cursiva**: Se logra encerrando el texto entre un asterisco o un guion bajo.
+  - `*texto en cursiva*`
+- **Listas**:
+  - **Listas ordenadas**: Usa números seguidos de un punto.  
+    `1. Elemento uno`  
+    `2. Elemento dos`
+  - **Listas desordenadas**: Usa guiones o asteriscos.  
+    `- Elemento uno`  
+    `- Elemento dos`
+- **Enlaces**: `[Texto del enlace](URL)`
+- **Imágenes**: `![Texto alternativo](ruta/de/la/imagen.jpg)`
+- **Citas**: Comienza la línea con un `>` para crear un bloque de cita.
+- **Código**:
+  - Código en línea: Encierra el texto en `` ` `` (backtick).  
+    `` `console.log("Hola Mundo");` ``
+  - Bloque de código: Usa tres backticks.  
+    ```  
+    ```
+    console.log("Hola Mundo");
+    ```
+    ```
 
-# ¿Para qué sirve Markdown?
-Markdown es un lenguaje de marcado ligero para dar formato a textos. Se usa en documentación, archivos README, foros, o plataformas como GitHub. Permite crear listas, encabezados, enlaces, y más con sintaxis sencilla.
+Para más detalles, consulta la [documentación oficial de Markdown](https://www.markdownguide.org/) o revisa el README de [GitHub Flavored Markdown](https://github.github.com/gfm/).
