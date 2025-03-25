@@ -1,0 +1,36 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "nombreReal": "Clark Kent",
+      "nombreHeroe": "Superman",
+      "foto": "/imagenes/superman.png",
+      "descripcion": "Superman es un superhéroe ficticio que apareció por primera vez en Action Comics.",
+      "activo": true
+    },
+    {
+      "id": 2,
+      "nombreReal": "Peni Parker",
+      "nombreHeroe": "SP//dr",
+      "foto": "/imagenes/superheroe-1742364236542.png",
+      "descripcion": "Peni Parker es una niña que tuvo que pilotar un traje mecánico llamado SP//dr, después de que el piloto original, su padre, fuera asesinado",
+      "activo": true
+    },
+    {
+      "id": 3,
+      "nombreReal": "Toshinori Yagi",
+      "nombreHeroe": "All Might",
+      "foto": "/imagenes/superheroe-1742365040825.jpg",
+      "descripcion": "Toshinori Yagi, más conocido como All Might, es un personaje ficticio del manga My Hero Academia, creado por Kōhei Horikoshi.",
+      "activo": true
+    },
+    {
+      "id": 4,
+      "nombreReal": "Charles Hampton Indigo",
+      "nombreHeroe": "Barbilla Roja",
+      "foto": "/imagenes/superheroe-1742365250045.jpg",
+      "descripcion": "Es un superhéroe de historieta que reside en la ciudad Barbilla City, la cual protege de varios villanos y amenazas",
+      "activo": true
+    }
+  ]
+}
