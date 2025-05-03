@@ -1,0 +1,51 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Star Wars: A New Hope",
+      "genre": "Science Fiction",
+      "releaseDate": "1977-05-25",
+      "review": "Luke Skywalker joins the Rebel Alliance to fight the Galactic Empire and rescue Princess Leia.",
+      "season": null
+    },
+    {
+      "id": 2,
+      "title": "Avengers: Endgame",
+      "genre": "Action",
+      "releaseDate": "2019-04-26",
+      "review": "The surviving Avengers assemble once more to undo Thanos’s actions and restore order to the universe.",
+      "season": null
+    },
+    {
+      "id": 3,
+      "title": "Breaking Bad",
+      "genre": "Drama",
+      "releaseDate": "2008-01-20",
+      "review": "A high school chemistry teacher diagnosed with terminal cancer turns to making methamphetamine to secure his family’s future.",
+      "season": "1"
+    }
+  ],
+  "characters": [
+    {
+      "id": 1,
+      "name": "Luke Skywalker",
+      "movieIds": [1],
+      "imageUrl": "https://starwars-visualguide.com/assets/img/characters/1.jpg",
+      "description": "A farm boy from Tatooine who discovers his destiny as a Jedi Knight."
+    },
+    {
+      "id": 2,
+      "name": "Tony Stark",
+      "movieIds": [2],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/Tony_Stark_portrayed_by_Robert_Downey_Jr.jpg",
+      "description": "A genius billionaire philanthropist and inventor who becomes Iron Man."
+    },
+    {
+      "id": 3,
+      "name": "Walter White",
+      "movieIds": [3],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/61/Walter_White_S5B.png",
+      "description": "A chemistry teacher turned methamphetamine manufacturer after a terminal diagnosis."
+    }
+  ]
+}
