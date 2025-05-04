@@ -1,0 +1,21 @@
+/* /src/pages/Dashboard/Dashboard.module.css */
+.dashboard {
+    padding: 40px;
+    font-family: 'Segoe UI', sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  
+  .button {
+    background-color: #e74c3c;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
